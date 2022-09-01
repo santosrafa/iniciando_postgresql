@@ -12,5 +12,5 @@ CREATE TABLE alunos(
     matriculado_em TIMESTAMP
 );
 
-
+SELECT * FROM alunos;                   /* Selecionando todos os dados da tabela alunos */
 
