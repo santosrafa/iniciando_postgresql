@@ -4,7 +4,7 @@ CREATE TABLE alunos(
     cpf VARCHAR(11),
     obs TEXT,
     idade INTEGER,
-    dinheiro NUMERIC(10,2)                  /* Significa (10,2) :: 1234567890,99 */
+    dinheiro NUMERIC(10,2),                  /* Significa (10,2) :: 1234567890,99 */
     altura REAL,
     ativo BOOLEAN,
     data_nascimento DATE,
